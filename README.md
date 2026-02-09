@@ -36,3 +36,15 @@ Focus on Maharashtra, Karnataka, and Uttar Pradesh
 Promote offers and discounts through Amazon, Flipkart, and Myntra
 
 This strategy can significantly increase customer conversions and revenue.
+
+📂 Project Structure
+
+Dataset → Raw sales data
+
+Dashboard → Final Excel dashboard
+
+Screenshots → Visual outputs
+
+👤 Author
+
+Sagnik Ghosh
